@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head> 
+
+<title> Resume </title>
+
+</head>
+<body>
+
+
+<h2>Resume</h2>
+
+<h4>Education</h4>
+<p>
+<ul>
+	<li>Jonathan Burr Elementary</li>
+	<li>Lakeview High School</li>
+	<li>Illinois Institute of Technology</li>
+
+</ul>
+</p>
+<h4>Experience</h4>
+<p>
+<ul>
+	<li>IIT Galvin Library Student Assistant Oct-Present</li>
+</ul>
+</p>
+<h4>Activities</h4>
+<h5>High School</h5>
+<p> 
+<ul>
+	<li>Soccer: MVP, co-captain</li>
+	<li>Technovation</li>
+	<li>STEM Launches</li>
+	<li>Girls Who Code</li>
+	<li>After School Matters</li>
+	<li>Police Hackathon</li>
+	<li>Ambassadors</li>
+	<li>FAM</li>
+	<li>Prom Committee</li>
+</ul>
+</p>
+
+<h5>College</h5>
+<p> 
+<ul>
+	<li>ESI</li>
+	<li>Chicago Scholars</li>
+	<li>Girls Who Code Alumni</li>
+	<li>IIT Womens Soccer</li>
+	<li>Union Board</li>
+	<li>Library Student Assistant</li>	
+</ul>
+</p>
+
+
+
+</body>
+</html> 
